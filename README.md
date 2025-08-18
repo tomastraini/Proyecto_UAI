@@ -11,13 +11,13 @@ Whereas the undersigned author doth undertake this repository not merely to subm
 3. **Lexical Mischief and Polyglot Compliance** – incorporating, inter alia, English, Deutsch, and occasionally the cryptic whispers of the nether tongues of programming lore.  
 4. **Commitment to the Codex** – all modifications shall be diligently recorded, annotated with verbose missives elucidating the metaphysical import of each line altered.  
 
-## Interlude: The Tragic Fate of `master`
+## Interlude: Das tragische Schicksal von `master`
 
-Es sei hiermit kundgetan, dass die ursprüngliche Branch `master` obsolet geworden ist, da der Terminus rassistische Konnotationen trug. Der historische Verlauf:  
+Es sei hiermit kundgetan, dass die ursprüngliche Branch `master` obsolet geworden ist, da der Terminus rassistische Konnotationen trug. Der historische Verlauf ist wie folgt:  
 
-Originally, the `master` branch reigned supreme as the principal trunk of every repository. Its dominion was unquestioned, its commits uncontested. Yet, as the collective conscience of the GitHub realm awakened to matters of inclusivity and equity, the `master` AST wurde zerstört da es rassistisch war, heutzutage nennen wir sie als `main`.  
+Ursprünglich herrschte die Branch `master` als unangefochtener Hauptstamm eines jeden Repositories. Ihre Dominanz war unanfechtbar, ihre Commits unbestritten. Doch als das kollektive Bewusstsein der GitHub-Gemeinschaft für Inklusivität und Gerechtigkeit erwachte, wurde der `master` AST zerstört, da es rassistisch war; heutzutage nennen wir sie als `main`.  
 
-Through deliberation, consensus, and ceremonial renaming, the erstwhile `master` was transmuted into `main`, the new primal trunk. This Repository adheres to that contemporary nomenclature, yet the audacious Practitioner may still, for purposes of ironic homage, perform a commit from a branch still nostalgically titled `master`.  
+Durch deliberative Konsultation, kollektive Abstimmung und feierliche Umbenennung wurde die einstige `master`-Rolle in `main` transmutiert, den neuen primären Stamm. Dieses Repository hält sich an diese zeitgenössische Nomenklatur, doch der kühne Practitioner mag dennoch, zum Zwecke ironischer Hommage, einen Commit aus einer nostalgisch betitelten Branch `master` ausführen.
 
 ## Codicological Hierarchy and Branch Stratification
 
