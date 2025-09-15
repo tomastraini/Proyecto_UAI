@@ -150,14 +150,12 @@ nav ul li a:hover {
 
     .main-nav {
         display: block;
-        /* mostramos barra normal */
         text-align: center;
         margin-top: 10px;
     }
 
     .hamburger {
         display: none;
-        /* ocultamos hamburguesa */
     }
 
     .content img {
@@ -165,7 +163,6 @@ nav ul li a:hover {
     }
 }
 
-/* ==== Desktop ==== */
 @media (min-width: 1024px) {
     .content {
         width: 70%;
